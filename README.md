@@ -1,6 +1,10 @@
 # java-performance
 자바 성능 튜닝 이야기를 읽으면서, 내용을 정리.<br>
 
+참고 URLs
+==> https://yangbongsoo.gitbook.io/study/undefined
+==> https://goldfishhead.tistory.com/85
+
 ---
 
 ### Story 01 : 디자인 패턴 꼭 써야 한다.
